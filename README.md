@@ -29,9 +29,7 @@ StreetSafe uses **YOLOv8** to detect **backpacks, handbags, and suitcases**, ale
 
 | Isolated Detection | Unattended Detection |
 |-----------------|--------------------|
-| ![Alone](img/2.jpg) | ![Unattended](img/1jpg) |
-
-> Place your images in an `img/` folder inside the project root with the names `alone.jpg` and `unattended.jpg`.  
+| ![Alone](img/2.jpg) | ![Unattended](img/1.jpg) |
 
 ---
 
@@ -47,10 +45,3 @@ StreetSafe uses **YOLOv8** to detect **backpacks, handbags, and suitcases**, ale
 
 ---
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/StreetSafe.git
-cd StreetSafe
