@@ -41,7 +41,6 @@ StreetSafe uses **YOLOv8** to detect **backpacks, handbags, and suitcases**, ale
 - **OpenCV** – Video and image processing  
 - **NumPy** – Numerical operations  
 - **Pillow (PIL)** – Image handling  
-- **SQLite/MySQL** (optional) – For storing detection logs (if implemented)  
 
 ---
 
