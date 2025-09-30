@@ -11,7 +11,7 @@ StreetSafe uses **YOLOv8** to detect **backpacks, handbags, and suitcases**, ale
 - **Real-time Camera Detection**: Monitor live video feed for unattended bags.  
 - **Image Upload**: Test detection on uploaded images.  
 - **Street-Friendly Logic**: Ignores pedestrians walking past; detects bags only when unattended.  
-- ** ISOLATED→ UNATTENDED Alerts**: Bags are first marked as **ALONE**, and if left for more than N seconds (default 5s), marked as **UNATTENDED**.  
+- ** ISOLATED→ UNATTENDED Alerts**: Bags are first marked as **ISOLATED**, and if left for more than N seconds (default 5s), marked as **UNATTENDED**.  
 - **Clean Display**: No unnecessary bounding boxes for the monitoring region; only detected objects are highlighted.  
 
 ---
